@@ -382,7 +382,7 @@
 			<div class="jam" id="time">
 				00:00:00
 			</div>
-			<div class="ucapan" id="quote">Semangat Terus</div>
+			<div class="ucapan" id="quote"></div>
 			<div class="note">bisa yu bisa</div>
 			<div class="pengembang">Silva</div>
 		</div>
